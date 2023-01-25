@@ -1,4 +1,4 @@
-local BPRCore                   = exports['bpr-core']:GetCoreObject()
+local RSGCore                   = exports['rsg-core']:GetCoreObject()
 local currentResourceName       = GetCurrentResourceName()
 
 RegisterNetEvent(currentResourceName .. ":showAdvancedNotification")
